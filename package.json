@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "XHS (Little Red Book) Multi-Account Management & Automated Publishing Protocol. Supports profile isolation, batch posting, and cross-account analytics.",
   "type": "module",
-  "author": "司南烛 (Si Nan Zhu)",
+  "author": "webkubor",
   "license": "MIT",
   "keywords": [
     "xhs-ops",
@@ -15,5 +15,16 @@
   "homepage": "https://github.com/webkubor/xhs-manager-skill",
   "scripts": {
     "validate": "node scripts/validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webkubor/xhs-manager-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webkubor/xhs-manager-skill/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }

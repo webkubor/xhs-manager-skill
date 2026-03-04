@@ -2,7 +2,7 @@
 name: xhs-manager-skill
 description: "XHS (Little Red Book) Multi-Account Management Protocol. Optimized for automated publishing, profile isolation, and matrix operations."
 version: 1.0.0
-author: "司南烛 (Si Nan Zhu)"
+author: "webkubor"
 license: "MIT"
 keywords: ["xhs", "multi-account", "automation", "matrix-ops"]
 allowed-tools: ["run_command", "list_dir", "grep_search"]
