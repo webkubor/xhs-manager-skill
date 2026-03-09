@@ -1,6 +1,6 @@
 {
   "name": "xhs-manager-skill",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "XHS (Little Red Book) Multi-Account Management & Automated Publishing Protocol. Supports profile isolation, batch posting, and cross-account analytics.",
   "type": "module",
   "author": "webkubor",
@@ -26,5 +26,8 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
   }
 }
